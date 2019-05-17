@@ -221,4 +221,4 @@ The null hypothesis was that sexual orientation does not effect the effectivenes
 The p-value was 0.0104, so we reject the null hypothesis which is smaller than .05. Because the response and explanatory values are categorical, the bar plot and chi-squared test | test for independence.
 The vaccine looks like it is somewhat effective on the general population. It seems to be unaffected by gender or Sexual orientation. The testing indicates we reject the null hypotheses and accept that the vaccine appears to have some positive effect, which is slightly less for some subgroups including IV drug users.
 
-  
+    
